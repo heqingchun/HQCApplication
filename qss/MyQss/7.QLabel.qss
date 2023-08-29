@@ -1,0 +1,19 @@
+QLabel{
+    font-family: "Microsoft YaHei";
+    font-size: 15px;
+    color: #BDC8E2;
+    font-style: normal;
+    font-weight: normal;
+
+    border-style: solid;
+    border-width: 2px;
+    border-color: aqua;
+    border-radius: 20px;
+
+    padding-left: 20px;
+    padding-top: 0px;
+
+    background-color: #2E3648;
+    background-repeat: no-repeat;
+    background-position: left center;
+}

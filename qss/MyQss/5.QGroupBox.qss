@@ -1,0 +1,19 @@
+QGroupBox {
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,stop: 0 #E0E0E0, stop: 1 #FFFFFF);
+    border: 2px solid #C3C3C3;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+QGroupBox::title {
+    subcontrol-origin: margin;
+    subcontrol-position: top center;
+    padding: 10px 15px;
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,stop: 0 #FF0ECE, stop: 1 #FFFFFF);
+}
+QGroupBox::indicator {
+    width: 13px;
+    height: 13px;
+}
+QGroupBox::indicator:unchecked {
+    image: url(:/images/checkbox.png);
+}

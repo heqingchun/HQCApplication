@@ -1,0 +1,6 @@
+QLCDNumber{
+    color:#FFFFFF;
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,stop: 0 #C4FF0E, stop: 1 #0ED145);
+    border: 2px solid #EEEEEE;
+    border-radius: 5px;
+}
