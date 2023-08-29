@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/BackGround/0.jpeg</file>
+        <file>icon/BackGround/1.jpeg</file>
+        <file>icon/BackGround/2.jpeg</file>
+        <file>icon/Black/close.ico</file>
+        <file>icon/Black/max.ico</file>
+        <file>icon/Black/min.ico</file>
+        <file>icon/Black/normal.ico</file>
+        <file>icon/Black/setting.ico</file>
+        <file>icon/Black/setting.png</file>
+        <file>icon/LED/LED_BLACK.ico</file>
+        <file>icon/LED/LED_BLUE.ico</file>
+        <file>icon/LED/LED_GREEN.ico</file>
+        <file>icon/LED/LED_LIGHT_BLUE.ico</file>
+        <file>icon/LED/LED_RED.ico</file>
+        <file>icon/LED/LED_YELLOW.ico</file>
+        <file>icon/logo/boshitext.ico</file>
+        <file>icon/logo/logo.ico</file>
+        <file>icon/White/close.ico</file>
+        <file>icon/White/max.ico</file>
+        <file>icon/White/min.ico</file>
+        <file>icon/White/normal.ico</file>
+        <file>icon/White/setting.ico</file>
+        <file>qss/dark/darkStyle.qss</file>
+        <file>qss/MyQss/0.QWidget.qss</file>
+        <file>qss/MyQss/1.QPushButton.qss</file>
+        <file>qss/MyQss/2.QToolButton.qss</file>
+        <file>qss/MyQss/3.QListView.qss</file>
+        <file>qss/MyQss/4.QProgressBar.qss</file>
+        <file>qss/MyQss/5.QGroupBox.qss</file>
+        <file>qss/MyQss/6.QLCDNumber.qss</file>
+        <file>qss/MyQss/7.QLabel.qss</file>
+        <file>qss/MyQss/8.QMessageBox.qss</file>
+    </qresource>
+</RCC>
