@@ -15,8 +15,6 @@
         <file>icon/LED/LED_LIGHT_BLUE.ico</file>
         <file>icon/LED/LED_RED.ico</file>
         <file>icon/LED/LED_YELLOW.ico</file>
-        <file>icon/logo/boshitext.ico</file>
-        <file>icon/logo/logo.ico</file>
         <file>icon/White/close.ico</file>
         <file>icon/White/max.ico</file>
         <file>icon/White/min.ico</file>
@@ -32,5 +30,7 @@
         <file>qss/MyQss/6.QLCDNumber.qss</file>
         <file>qss/MyQss/7.QLabel.qss</file>
         <file>qss/MyQss/8.QMessageBox.qss</file>
+        <file>icon/logo/logo.png</file>
+        <file>icon/logo/logotext.png</file>
     </qresource>
 </RCC>
