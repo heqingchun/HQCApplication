@@ -30,6 +30,7 @@
         <file>qss/MyQss/6.QLCDNumber.qss</file>
         <file>qss/MyQss/7.QLabel.qss</file>
         <file>qss/MyQss/8.QMessageBox.qss</file>
+        <file>icon/BackGround/3.jpeg</file>
         <file>icon/logo/logo.png</file>
         <file>icon/logo/logotext.png</file>
     </qresource>
