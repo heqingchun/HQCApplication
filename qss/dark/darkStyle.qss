@@ -6,7 +6,7 @@
 /*QMainWindow*/
 QMainWindow{
     /*background-image:url(:/icon/BackGround/2.jpeg);*/
-    border-image:url(:/icon/BackGround/2.jpeg);
+    border-image:url(:/icon/BackGround/3.jpeg);
     /*image:url(:/icon/BackGround/0.jpeg);*/
 }
 /*QPushButton*/
