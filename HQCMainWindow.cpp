@@ -52,8 +52,8 @@ void HQCCMainWindow::InitWindow(){
     menuBar()->hide();
     statusBar()->hide();
     //图标
-    ui->labLogoIcon->setPixmap(QPixmap::fromImage(QImage(":/icon/logo/logo.ico")));
-    ui->labLogoText->setPixmap(QPixmap::fromImage(QImage(":/icon/logo/boshitext.ico")));
+    ui->labLogoIcon->setPixmap(QPixmap::fromImage(QImage(":/icon/logo/logo.png")));
+    ui->labLogoText->setPixmap(QPixmap::fromImage(QImage(":/icon/logo/logotext.png")));
     ui->tbtnSetting->setIcon(QIcon(":/icon/White/setting.ico"));
     ui->tbtnMin->setIcon(QIcon(":/icon/White/min.ico"));
     ui->tbtnMax->setIcon(QIcon(":/icon/White/normal.ico"));
